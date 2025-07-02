@@ -6,7 +6,7 @@ Web developer
 
 *   🌍  I'm based in Benin Republic
 *   ✉️  You can contact me at [obiajuluchisom1012@gmail.com](mailto:obiajuluchisom1012@gmail.com)
-*   🧠  I'm learning Javascript
+*   🧠  I'm a Jvavscript/Typescript dev
 *   ⚡  I'm a big weeb 👀😂😂😂
 *   <a href="https://www.github.com/chisom-1010" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/chisom-1010?logo=github&style=for-the-          badge&color=f97316&labelColor=1c1917" /></a>
 *   My GitHub Stats
