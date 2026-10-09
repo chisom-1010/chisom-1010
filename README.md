@@ -23,7 +23,7 @@ I'm **Obiajulu Chisom**, a JavaScript and TypeScript developer who builds web ap
 
 |     |     |
 | --- | --- |
-| 🌍 **Based in** | Benin Republic |
+| 🌍 **Based in** | Togo |
 | 🧠 **Focus** | Web apps with TypeScript, Next.js and Supabase |
 | 🔭 **Working on** | [caZTube](https://github.com/chisom-1010/caztube), a video platform with a new FastAPI backend |
 | 🌱 **Learning** | Python, FastAPI, C# and .NET |
