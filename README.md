@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/33248398/README.1.md)
+[README.md](https://github.com/user-attachments/files/33248398/README.1.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1c1917,100:f97316&text=Obiajulu%20Chisom&fontColor=fafaf9&fontSize=46&fontAlignY=38&desc=Web%20developer%20%C2%B7%20JAXXX&descColor=fed7aa&descSize=18&descAlignY=60" alt="Obiajulu Chisom, web developer" width="100%" />
